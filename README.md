@@ -8,3 +8,9 @@ app such as **Messages**, **WhatsApp**, **Email**, etc.
 - EditText to type message
 - Button to send message using Implicit Intent
 - Shares message via supported apps installed on the device
+
+- ## Concept Covered
+- Implicit Intent
+- Intent actions ('ACTION_SEND')
+- Passing data between apps
+  
