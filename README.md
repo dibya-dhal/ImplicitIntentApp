@@ -14,3 +14,7 @@ app such as **Messages**, **WhatsApp**, **Email**, etc.
 - Intent actions ('ACTION_SEND')
 - Passing data between apps
   
+## purpose 
+This project was created to understand how implicit
+intents work and how Android chooses the best app for 
+the action.
